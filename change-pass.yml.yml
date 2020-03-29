@@ -5,7 +5,6 @@
   vars_prompt:
   - name: username
     prompt: "Type username"
-    private: no
   - name: password
     prompt: "Type password"
 
