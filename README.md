@@ -1,5 +1,5 @@
 # İstifadəçi şifrələrinin avtomatlaşdırılmış dəyişdirilməsi
-Bu repozitori, istifadəçi şifrələrinin avtomatlaşdırılmış yenilənməsi üçün istifadə olunur. Repozitori virtual, fiziki və ya bulud texnologiyalarında yerləşən linux distributivli serverlər üzərinə istifadə edilə bilər. Tapşırıqlar, idarə edilən serverlərdə root səlahiyyətləri ilə icra edilməlidir. Playbook işə salınmazdan öncə redaktə edilərək "hosts" bölməsinə uyğun host adları qeyd edilməlidir.
+Bu repozitori, istifadəçi şifrələrinin avtomatlaşdırılmış yenilənməsi üçün istifadə olunur. Repozitori linux distributivləri üzərinə istifadə edilə bilər. Tapşırıqlar, idarə edilən serverlərdə "sudo" səlahiyyətləri ilə icra edilməlidir. Playbook işə salınmazdan öncə "change-pass.yml" faylı redaktə edilərək "hosts" bölməsinə uyğun host adları qeyd edilməlidir.
 
 İnstruksiya:
 
